@@ -1,4 +1,4 @@
-package com.mypackage;
+package com.palindrome;
 
 public class Palindrome 
 {
